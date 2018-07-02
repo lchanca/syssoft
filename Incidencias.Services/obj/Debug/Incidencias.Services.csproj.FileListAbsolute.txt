@@ -1,0 +1,11 @@
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\Incidencias.Services.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\Incidencias.Services.pdb
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\Incidencias.Data.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\Incidencias.Entities.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\EntityFramework.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\Incidencias.Data.pdb
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\Incidencias.Entities.pdb
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\bin\Debug\EntityFramework.xml
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\obj\Debug\Incidencias.Services.csprojResolveAssemblyReference.cache
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\obj\Debug\Incidencias.Services.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Services\obj\Debug\Incidencias.Services.pdb

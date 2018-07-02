@@ -1,0 +1,16 @@
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\Incidencias.Data.dll.config
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\Incidencias.Data.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\Incidencias.Data.pdb
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\EntityFramework.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\Incidencias.Entities.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\Incidencias.Entities.pdb
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\EntityFramework.xml
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\obj\Debug\Incidencias.Data.csprojResolveAssemblyReference.cache
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\obj\Debug\Incidencias.Data.Migrations.initial_migration.resources
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\obj\Debug\Incidencias.Data.Migrations.add_titulo_incidencia_migration.resources
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\obj\Debug\Incidencias.Data.Migrations.add_Tecnico_Contacto_Aplicacio_migration.resources
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\obj\Debug\Incidencias.Data.csproj.GenerateResource.Cache
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\obj\Debug\Incidencias.Data.dll
+D:\02-PROYECTOS\03-WEB\04-Asp\Incidencias-master\Incidencias.Data\obj\Debug\Incidencias.Data.pdb
